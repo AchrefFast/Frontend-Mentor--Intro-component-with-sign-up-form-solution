@@ -1,0 +1,12 @@
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    --f-size-title: 3rem;
+    --f-size-text: 1rem;
+    --f-size-input: 1rem;
+    --f-size-term: .7rem;
+}
